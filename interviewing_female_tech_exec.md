@@ -66,18 +66,18 @@ In fields where raw talent is held above all else, women and minorities are unde
 
 Orchestras are another industry where innate talent is highly valued. They tried an experiment where they carpeted the floor (to soften high heels) and put up a screen during auditions to hide the identity of the person trying out. The number of women who got to the final round of interviews jumped to 50% from 5% (!!!).
 
-Looking at GitHub, women's PRs are accepted less frequently when their username indciates it's a woman.
+Looking at GitHub, women's PRs are accepted less frequently when their username indicates it's a woman.
 
 ## _How to reduce bias as a hiring company_
 
 1. Have a process (duh)
-  1. 6 of 10 companies she interviewed did not have a set process for Execs and therefore were super susceptible to unconscious bias.
-  2. Code challenges where the gender and ethnicity is anonymized are best. You could also do this with execs.
+  - 6 of 10 companies she interviewed did not have a set process for Execs and therefore were super susceptible to unconscious bias.
+  - Code challenges where the gender and ethnicity is anonymized are best. You could also do this with execs.
 2. Have a diverse group of people _do_ the interviewing
 3. Train recruiters on exactly what you're looking for
 4. Recruit in batches 
-  1. More of a problem at same companies
-  2. At least 5 candidates that are diverse is a good rule of thumb.
+  - More of a problem at small companies
+  - At least 5 candidates that are diverse is a good rule of thumb.
 
 ## _How to protect yourself as a job seeker:_
 
@@ -95,7 +95,7 @@ _When you're more junior, how do you sort out legitimate feedback from sexist co
 
 _I'm attending a coding bootcamp and they recommend put your picture up on GitHub etc. Should I make another GitHub where it doesn't have my female name and photo?_ No, please don't do that. If a company rejected you based on your gender, you don't want to work for them anyway.
 
-_Do you have any tips for breaking unconscious bias in an onsite interview? Also, can you explain why you hate white boarding?_ They only evaluate coding skill through the take home. They do an in person pairing test but it evaluates communication and not coding skill. _Follow up: what about systems engineering?_ Lisa has only don't those sorts of interviews in person. 
+_Do you have any tips for breaking unconscious bias in an onsite interview? Also, can you explain why you hate white boarding?_ They only evaluate coding skill through the take home. They do an in person pairing test but it evaluates communication and not coding skill. _Follow up: what about systems engineering?_ Lisa has only done those sorts of interviews in person. 
 
 _Would you recommend the coffee tip for lower level person?_ Yes, especially at smaller companies where you might be the most senior person. She does not pester. She sends one email. She starts with one informal coffee meeting where she comes prepared with a few questions. Then you can feel it out for whether they want to meet again.
 
